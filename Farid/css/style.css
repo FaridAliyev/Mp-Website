@@ -1,0 +1,16 @@
+.card{
+    border: none;
+}
+.btn-background-fix{
+    background: #6c757d;
+    border: #6c757d;
+}
+#cards img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
+.media-body{
+    margin: auto 0;
+}
